@@ -1,3 +1,6 @@
 [submodule "frontendmentor_blog-preview-card"]
 	path = frontendmentor_blog-preview-card
 	url = https://github.com/alexdeeguz/frontendmentor_blog-preview-card.git
+[submodule "frontendmentor_connect-four"]
+	path = frontendmentor_connect-four
+	url = https://github.com/alexdeeguz/frontendmentor_connect-four.git
